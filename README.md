@@ -1,7 +1,5 @@
 ## Front End task
 
-In the project directory, you can run:
-
 ### Details of the solution
 
 Some details about the implementation:
